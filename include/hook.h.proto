@@ -33,7 +33,7 @@
 /*
  * Generated from hook.h.proto automatically by the Makefile
  *
- * $Id: hook.h.proto,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: hook.h.proto,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 #ifndef __hook_h_

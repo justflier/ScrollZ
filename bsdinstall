@@ -2,7 +2,7 @@
 #
 #	@(#)install.sh	4.5	(Berkeley)	10/12/83
 #
-# $Id: bsdinstall,v 1.1 1998-09-10 17:31:12 f Exp $
+# $Id: bsdinstall,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
 #
 cmd=/bin/mv
 strip=""

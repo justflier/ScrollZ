@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id: struct.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: struct.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 /**************************** PATCHED by Flier ******************************/

@@ -4,7 +4,7 @@
 /*
  * Routines for Blowfish encryption
  *
- * $Id: blowfish.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: blowfish.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 static unsigned int F(unsigned int);

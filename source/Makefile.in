@@ -3,7 +3,7 @@
 # all rights reserved
 # written by matthew green.
 # copyright (c) 1993
-# @(#)$Id: Makefile.in,v 1.1 1998-09-10 17:31:12 f Exp $
+# @(#)$Id: Makefile.in,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
 
 LIBS	= @LIBS@
 CC	= @CC@

@@ -5,7 +5,7 @@
  *
  *	@(#)talkd.h	5.2 (Berkeley) 3/13/86
  *
- * $Id: talkd.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: talkd.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 #ifndef __talkd_h_

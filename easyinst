@@ -4,7 +4,7 @@
 #
 # this script is a front end to `configure' which also asks a few
 # other questions such as default server, bindir, etc.
-# $Id: easyinst,v 1.1 1998-09-10 17:31:12 f Exp $
+# $Id: easyinst,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
 #
 # $defserver
 # $sysinstall (exists and is nonempty if system install)
@@ -433,7 +433,7 @@ esac
 # Please do not edit.
 #
 EOF
-  echo '# $Id: easyinst,v 1.1 1998-09-10 17:31:12 f Exp $'
+  echo '# $Id: easyinst,v 1.1.1.1 1998-09-10 17:31:12 f Exp $'
   echo "# Created: `date`"
   echo '# '
   cat << EOF

@@ -7,7 +7,7 @@
  *
  * See the COPYRIGHT file, or do a HELP IRCII COPYRIGHT
  *
- * $Id: whowas.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: whowas.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  *
  * Modified by Flier
  */

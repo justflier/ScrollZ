@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $Id: menu.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: menu.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 #ifndef __menu_h_

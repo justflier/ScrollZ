@@ -31,7 +31,7 @@
  *
  * see the copyright file, or type help ircii copyright
  *
- * $Id: screen.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: screen.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 #ifndef __screen_h_

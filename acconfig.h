@@ -1,5 +1,5 @@
 /*
- * $Id: acconfig.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: acconfig.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 /* define if allow sys/time.h with time.h */

@@ -4,8 +4,8 @@
 # Created: 1993-05-16
 # Last modified: 1994-03-25
 # Public domain
-# $Id: mkinstalldirs,v 1.1 1998-09-10 17:31:12 f Exp $
-# @(#)$Id: mkinstalldirs,v 1.1 1998-09-10 17:31:12 f Exp $
+# $Id: mkinstalldirs,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
+# @(#)$Id: mkinstalldirs,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
 
 errstatus=0
 

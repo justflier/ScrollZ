@@ -4,7 +4,7 @@
 /*
  * Structures for my use
  *
- * $Id: mystructs.h,v 1.1 1998-09-10 17:31:12 f Exp $
+ * $Id: mystructs.h,v 1.1.1.1 1998-09-10 17:31:12 f Exp $
  */
 
 /* don't change!! */
